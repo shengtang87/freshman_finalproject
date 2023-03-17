@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\88697\desktop\final template\source\main.c : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\88697\desktop\final template\source\main.c(553): warning C4552: '+': 未使用運算式結果
+  Final Template.vcxproj -> C:\Users\88697\Desktop\Final Template\VS2017\x64\Debug\Final Template.exe
